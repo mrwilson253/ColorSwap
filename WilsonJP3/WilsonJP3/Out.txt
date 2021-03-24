@@ -1,0 +1,36 @@
+Jordan Wilson, Program 3, the Color Swap as a class
+
+Colors: 
+red
+blue
+green
+yellow
+black
+white
+brown
+
+Phrases: 
+expensive and elegant
+gigantic yet gentle
+beautiful and rich
+sunny and warm
+glittery with diamonds
+massive and stupid
+fast and agile
+
+Sentences: 
+The green ball went in the gutter.
+Black and yellow are the Steeler's colors.
+Red, white and blue are the colors in our flag.
+Carly is a brown dog.
+The moon is silver.
+
+Sentences analyzed: 5
+Sentences modified: 4
+Colors Modified: 7
+Modified Sentences: 
+The beautiful and rich ball went in the gutter.
+Glittery with diamonds and sunny and warm are the Steeler's colors.
+Expensive and elegant, massive and stupid and gigantic yet gentle are the colors in our flag.
+Carly is a fast and agile dog.
+The moon is silver.

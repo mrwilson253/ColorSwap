@@ -1,0 +1,6 @@
+﻿  ColorSwap.cpp
+C:\Users\wilso\OneDrive\Desktop\C++II\WilsonJP3\WilsonJP3\ColorSwap.cpp(143,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Functions.cpp
+  Driver.cpp
+  Generating Code...
+  WilsonJP3.vcxproj -> C:\Users\wilso\OneDrive\Desktop\C++II\WilsonJP3\x64\Debug\WilsonJP3.exe
